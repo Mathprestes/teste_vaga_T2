@@ -3,6 +3,9 @@ Teste para a vaga de Estagio - Desenvolvedor Front-end
 
 Teste finalizado, usando HTML, CSS, Bootstrap e JavaScript
 
+# Deploy no Netlify
+### https://teste-vaga-t2.netlify.app
+
 ## :eye_speech_bubble: **PROJETO FINAL*
 
 <div align="center">
