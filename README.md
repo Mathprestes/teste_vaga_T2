@@ -5,7 +5,6 @@ Teste finalizado, usando HTML, CSS, Bootstrap e JavaScript
 
 # Deploy no Netlify
 #### https://teste-vaga-t2.netlify.app
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1300d7c4-136a-4a4d-8ea5-35a58b4dd074/deploy-status)](https://app.netlify.com/sites/teste-vaga-t2/deploys)
 
 ## :eye_speech_bubble: **PROJETO FINAL*
 
